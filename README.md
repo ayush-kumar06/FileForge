@@ -62,7 +62,7 @@ The result is a small project that demonstrates a genuinely useful skill set: so
 
 ## 🎬 Demo
 
-![FileForge demo](assets/demo.png)
+![FileForge demo](demo.png)
 *FileForge's dashboard — live file stats, tabbed operations, and a dark, fire-themed interface.*
 
 ---
